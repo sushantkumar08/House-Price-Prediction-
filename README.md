@@ -112,6 +112,8 @@ Dataset Link: [Kaggle - Bengaluru House Price Data](https://www.kaggle.com/amita
 ## **Conclusion**
 The project successfully predicts property prices in Bangalore by combining data science, machine learning, and web development. The integration of a web app provides users with a simple yet effective way to estimate house prices.
 
+ ___
+
  
 ![1st SS](https://github.com/user-attachments/assets/cc92e564-efaf-4f81-8086-ab6ae02d9841)
 ![2nd SS](https://github.com/user-attachments/assets/f3acbeb4-edc5-4d76-97b0-9fa16c91c7da)
