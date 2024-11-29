@@ -118,7 +118,7 @@ The project successfully predicts property prices in Bangalore by combining data
 
 ### Web Application Interface
 
-Below is the screenshot of the user interface of the Bangalore House Price Prediction app, where users can input property details to get estimated prices.
+Below is the screenshot of the user interface of the House Price Prediction of Bangalore app, where users can input property details to get estimated prices.
 
  
 ![1st SS](https://github.com/user-attachments/assets/cc92e564-efaf-4f81-8086-ab6ae02d9841)
