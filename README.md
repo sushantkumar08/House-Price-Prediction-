@@ -1,6 +1,6 @@
 
 
-# **Bangalore House Price Prediction**
+# **House Price Prediction of Bangalore**
 
 ## **Overview**
 This project focuses on predicting house prices in Bangalore, India, using Machine Learning techniques. It integrates data science, machine learning, and web development to create a predictive model deployed on the Heroku platform. The goal is to provide accurate house price estimations based on factors like location, size, and amenities.
@@ -86,7 +86,6 @@ Dataset Link: [Kaggle - Bengaluru House Price Data](https://www.kaggle.com/amita
 - **Frontend:** Simple HTML form with JavaScript to interact with the backend.
 - **Functionality:** Users input details like square footage, BHK, bathrooms, and location to get an estimated price.
 
-Try it out: [Bangalore House Price Prediction Web App](https://bangalorehousepriceprediction.herokuapp.com)
 
 
 
@@ -108,31 +107,6 @@ Try it out: [Bangalore House Price Prediction Web App](https://bangalorehousepri
    - Backend: Flask API
    - Frontend: HTML + JavaScript
    - Deployment: Heroku
-
-
-
-## **How to Run the Project Locally**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION.git
-   ```
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Flask server:
-   ```bash
-   python app.py
-   ```
-4. Open the app in your browser at `http://127.0.0.1:5000`.
-
-
-
-## **Links**
-- **Web Application:** [Deployed App](https://bangalorehousepriceprediction.herokuapp.com)
-- **GitHub Repository:** [Source Code](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)
-- **Model Data:** [Kaggle Dataset](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data)
-
 
 
 ## **Conclusion**
